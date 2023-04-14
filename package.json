@@ -15,9 +15,20 @@
     "npm": "please-use-yarn"
   },
   "dependencies": {
+    "@react-spring/core": "^9.7.2",
+    "@react-spring/web": "^9.7.2",
+    "@react-three/drei": "^9.65.3",
+    "@react-three/fiber": "^8.12.1",
+    "@react-three/flex": "^1.0.1",
+    "customize-cra": "^1.0.0",
+    "customize-cra-react-refresh": "^1.1.0",
     "next": "12.1.6",
+    "next-transpile-modules": "^10.0.0",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-app-rewired": "^2.2.1",
+    "react-dom": "18.1.0",
+    "three": "^0.151.3",
+    "webpack-bundle-analyzer": "^4.8.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
